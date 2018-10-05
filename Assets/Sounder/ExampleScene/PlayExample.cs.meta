@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 130f82cb1e433d7469afdc0188466092
+timeCreated: 1425773686
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mixer: {fileID: 24300001, guid: 3993958ff32be5c4799cef73255829cc, type: 2}
+  - playEffect: {instanceID: 0}
+  - loopEffect: {instanceID: 0}
+  - changeEffect: {instanceID: 0}
+  - localPlayEffect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
